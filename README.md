@@ -3,9 +3,10 @@
 
 📁The folder structure
 
-Coal_Detecter - * bin
+Coal_Detecter - 
 
 
-                * data
+                * bin
+                * data 
                 * dlib - JarFile and data 📁 - train.text and training 📁 - different types of coals
                 * src
