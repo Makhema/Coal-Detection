@@ -14,4 +14,4 @@ Coal_Detecter -
                                                                               * Bituminous(3.jpg, 4.jpg, 6.jpg)
                                                                               * Lignite(92.jpg, 90.jpg, 88.jpg)
                                                                               * Peat(5.jpg, 30.jpg, 34.jpg)
-                * src
+                * src - 
