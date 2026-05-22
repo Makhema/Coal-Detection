@@ -1,7 +1,8 @@
 # Coal-Detection
 
-
-* Future Improvement
+* Objective 🧠
+* Tools used 🧰
+* Future Improvement 💡
 
 📁The folder structure
 
