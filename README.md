@@ -17,14 +17,14 @@ Coal_Detecter -
                                                                               * Lignite(92.jpg, 90.jpg, 88.jpg)
                                                                               * Peat(5.jpg, 30.jpg, 34.jpg)
                 * src - * Main.java
-                        * coal📁 - detection📁 - * about📁
-                                                  * app📁
-                                                  * classifier📁
-                                                  * datastructure📁
-                                                  * graph📁
-                                                  * image📁
-                                                  * modelgraph📁
-                                                  * results📁
-                                                  * service📁
-                                                  * upload📁
+                        * coal📁 - detection📁 - * about📁 - about.java
+                                                  * app📁 - app.java
+                                                  * classifier📁 - classifier.java
+                                                  * datastructure📁 - datastructure.java
+                                                  * graph📁 - graph.java
+                                                  * image📁 - image.java
+                                                  * modelgraph📁 - modelgraph.java
+                                                  * results📁 - results.java
+                                                  * service📁 - service.java
+                                                  * upload📁 - upload.java
                                                   
