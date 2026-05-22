@@ -1,6 +1,8 @@
 # Coal-Detection
 
 
+* Future Improvement
+
 📁The folder structure
 
 Coal_Detecter - 
