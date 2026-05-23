@@ -21,7 +21,7 @@ Coal_Detecter -
                         * coal📁 - detection📁 - * about📁 - About.java
                                                   * app📁 - AppState.java
                                                   * classifier📁 - CoalClassifier.java, AnalysisResults.java, GraphNeuralNetwork.java, SimilarityResults.java, TrainingSample.java
-                                                  * datastructure📁 - datastructure.java
+                                                  * datastructure📁 - ArrayListDS.java, LinkedListDS.java, Node.java
                                                   * graph📁 - graph.java
                                                   * image📁 - image.java
                                                   * modelgraph📁 - modelgraph.java
