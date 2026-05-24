@@ -23,7 +23,7 @@ Coal_Detecter -
                                                   * classifier📁 - CoalClassifier.java, AnalysisResults.java, GraphNeuralNetwork.java, SimilarityResults.java, TrainingSample.java
                                                   * datastructure📁 - ArrayListDS.java, LinkedListDS.java, Node.java
                                                   * graph📁 - graph.java
-                                                  * image📁 - image.java
+                                                  * image📁 - ImageFeatureExtractor.java
                                                   * modelgraph📁 - modelgraph.java
                                                   * results📁 - results.java
                                                   * service📁 - service.java
