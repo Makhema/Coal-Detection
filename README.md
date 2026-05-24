@@ -22,10 +22,10 @@ Coal_Detecter -
                                                   * app📁 - AppState.java
                                                   * classifier📁 - CoalClassifier.java, AnalysisResults.java, GraphNeuralNetwork.java, SimilarityResults.java, TrainingSample.java
                                                   * datastructure📁 - ArrayListDS.java, LinkedListDS.java, Node.java
-                                                  * graph📁 - graph.java
+                                                  * graph📁 - Graph.java
                                                   * image📁 - ImageFeatureExtractor.java
                                                   * modelgraph📁 - GraphEdge.java, GraphStructure.java, GraphVertex.java
-                                                  * results📁 - results.java
+                                                  * results📁 - Results.java
                                                   * service📁 - CoalAnalysisService.java, DataSetLoader.java
                                                   * upload📁 - Upload.java
                                                   
