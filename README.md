@@ -24,7 +24,7 @@ Coal_Detecter -
                                                   * datastructure📁 - ArrayListDS.java, LinkedListDS.java, Node.java
                                                   * graph📁 - graph.java
                                                   * image📁 - ImageFeatureExtractor.java
-                                                  * modelgraph📁 - modelgraph.java
+                                                  * modelgraph📁 - GraphEdge.java, GraphStructure.java, GraphVertex.java
                                                   * results📁 - results.java
                                                   * service📁 - service.java
                                                   * upload📁 - upload.java
