@@ -27,5 +27,5 @@ Coal_Detecter -
                                                   * modelgraph📁 - GraphEdge.java, GraphStructure.java, GraphVertex.java
                                                   * results📁 - results.java
                                                   * service📁 - CoalAnalysisService.java, DataSetLoader.java
-                                                  * upload📁 - upload.java
+                                                  * upload📁 - Upload.java
                                                   
