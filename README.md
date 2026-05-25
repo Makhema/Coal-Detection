@@ -9,7 +9,7 @@
 Coal_Detecter - 
 
 
-                * bin
+                * bin - all the *.class files
                 * data -   train-list.txt
                          * training 📁 * Anthracite(1.jpg, 2.jpg, 27.jpg)
                                         * Bituminous(3.jpg, 4.jpg, 6.jpg)
