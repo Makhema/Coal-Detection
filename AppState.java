@@ -1,10 +1,10 @@
-package acsse.csc3a.app;
+package coal.detection.app;
 
 import java.io.File;
 import java.io.IOException;
 
-import acsse.csc3a.classifier.AnalysisResult;
-import acsse.csc3a.service.CoalAnalysisService;
+import coal.detection.classifier.AnalysisResult;
+import coal.detection.service.CoalAnalysisService;
 
 /**
  * This class is responsible for shared application state.
