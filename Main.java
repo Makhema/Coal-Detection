@@ -1,8 +1,8 @@
-import coal.csc3a.graph.Graph;
-import coal.csc3a.results.Results;
-import coal.csc3a.upload.Upload;
-import coal.csc3a.app.AppState;
-import coal.csc3a.about.About;
+import coal.detection.graph.Graph;
+import coal.detection.results.Results;
+import coal.detection.upload.Upload;
+import coal.detection.app.AppState;
+import coal.detection.about.About;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Alert;
