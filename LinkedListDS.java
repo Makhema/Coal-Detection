@@ -1,4 +1,4 @@
-package acsse.csc3a.datastructures;
+package coal.detection.datastructures;
 
 // This class is a linked list used by the queue
 public class LinkedListDS<T> {

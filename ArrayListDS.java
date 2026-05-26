@@ -1,4 +1,4 @@
-package acsse.csc3a.datastructures;
+package coal.detection.datastructures;
 
 // This class is an array list
 public class ArrayListDS<T> {

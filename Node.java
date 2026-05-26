@@ -1,4 +1,4 @@
-package acsse.csc3a.datastructures;
+package coal.detection.datastructures;
 
 // This classs is a single node used in the linked list
 public class Node<T> {
