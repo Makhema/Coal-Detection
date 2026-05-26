@@ -1,10 +1,10 @@
-package acsse.csc3a.graph;
+package coal.detection.graph;
 
-import acsse.csc3a.classifier.AnalysisResult;
-import acsse.csc3a.modelgraph.GraphEdge;
-import acsse.csc3a.modelgraph.GraphStructure;
-import acsse.csc3a.modelgraph.GraphVertex;
-import acsse.csc3a.app.AppState;
+import coal.detection.classifier.AnalysisResult;
+import coal.detection.modelgraph.GraphEdge;
+import coal.detection.modelgraph.GraphStructure;
+import coal.detection.modelgraph.GraphVertex;
+import coal.detection.app.AppState;
 import javafx.geometry.Insets;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
