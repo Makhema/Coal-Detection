@@ -1,7 +1,7 @@
-package acsse.csc3a.classifier;
+package coal.detection.classifier;
 
-import acsse.csc3a.datastructures.ArrayListDS;
-import acsse.csc3a.modelgraph.GraphStructure;
+import coal.detection.datastructures.ArrayListDS;
+import coal.detection.modelgraph.GraphStructure;
 
 import java.awt.image.BufferedImage;
 import java.util.Map;

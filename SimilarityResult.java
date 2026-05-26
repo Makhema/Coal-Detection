@@ -1,4 +1,4 @@
-package acsse.csc3a.classifier;
+package coal.detection.classifier;
 
 /**
  * This class holds one similarity match and its score

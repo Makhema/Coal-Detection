@@ -1,9 +1,9 @@
-package acsse.csc3a.classifier;
+package coal.detection.classifier;
 
-import acsse.csc3a.datastructures.ArrayListDS;
-import acsse.csc3a.modelgraph.GraphEdge;
-import acsse.csc3a.modelgraph.GraphStructure;
-import acsse.csc3a.modelgraph.GraphVertex;
+import acsse.detection.datastructures.ArrayListDS;
+import acsse.detection.modelgraph.GraphEdge;
+import acsse.detection.modelgraph.GraphStructure;
+import acsse.detection.modelgraph.GraphVertex;
 
 import java.util.HashMap;
 import java.util.Map;
