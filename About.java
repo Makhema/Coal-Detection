@@ -1,4 +1,4 @@
-package acsse.csc3a.about;
+package coal.detection.about;
 
 import javafx.scene.control.Label;
 import javafx.scene.control.ScrollPane;
