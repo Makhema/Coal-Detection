@@ -1,8 +1,8 @@
-package acsse.csc3a.results;
+package coal.detection.results;
 
-import acsse.csc3a.classifier.AnalysisResult;
-import acsse.csc3a.classifier.SimilarityResult;
-import acsse.csc3a.app.AppState;
+import coal.detection.classifier.AnalysisResult;
+import coal.detection.classifier.SimilarityResult;
+import coal.detection.app.AppState;
 import javafx.geometry.Insets;
 import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
