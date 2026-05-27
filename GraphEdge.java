@@ -1,4 +1,4 @@
-package acsse.csc3a.modelgraph;
+package coal.detection.modelgraph;
 
 /**
  * One weighted graph edge between neighbouring image regions.

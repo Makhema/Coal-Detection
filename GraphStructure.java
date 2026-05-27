@@ -1,4 +1,4 @@
-package acsse.csc3a.modelgraph;
+package coal.detection.modelgraph;
 
 import java.util.ArrayList;
 import java.util.List;
