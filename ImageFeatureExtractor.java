@@ -1,7 +1,7 @@
-package acsse.csc3a.image;
+package coal.detection.image;
 
-import acsse.csc3a.modelgraph.GraphStructure;
-import acsse.csc3a.modelgraph.GraphVertex;
+import coal.detection.modelgraph.GraphStructure;
+import coal.detection.modelgraph.GraphVertex;
 
 import java.awt.Graphics2D;
 import java.awt.RenderingHints;
