@@ -1,9 +1,9 @@
-package acsse.csc3a.service;
+package coal.detection.service;
 
-import acsse.csc3a.classifier.AnalysisResult;
-import acsse.csc3a.classifier.CoalClassifier;
-import acsse.csc3a.classifier.TrainingSample;
-import acsse.csc3a.datastructures.ArrayListDS;
+import coal.detection.classifier.AnalysisResult;
+import coal.detection.classifier.CoalClassifier;
+import coal.detection.classifier.TrainingSample;
+import coal.detection.datastructures.ArrayListDS;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
