@@ -32,4 +32,5 @@ Coal_Detecter -
                                                   * results📁 - Results.java
                                                   * service📁 - CoalAnalysisService.java, DataSetLoader.java
                                                   * upload📁 - Upload.java
-                                                  
+
+Contributors/Problem Solvers:
