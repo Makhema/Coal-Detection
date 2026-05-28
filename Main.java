@@ -15,6 +15,10 @@ import javafx.stage.Stage;
 /*
  * This class is responsible for running the application
  */
+/**
+*@author - Motsoetsoana Makhema, Pedume Madisa, Mayibongwe Mathonsi, Samuel Chichongue.
+*
+*/
 public class Main extends Application {
 
     BorderPane bp1 = new BorderPane();
