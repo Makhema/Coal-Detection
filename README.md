@@ -2,7 +2,10 @@
 
 * Objective 🧠
 * Tools used 🧰
-* Future Improvement 💡
+* Future Improvement 💡 - GUI Performance
+                        - Use Larger database
+
+         
 
 📁The folder structure
 
