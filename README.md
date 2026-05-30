@@ -3,7 +3,7 @@
 * Objective 🧠
 * Tools used 🧰
 * Future Improvement 💡 - GUI Performance to be explained.
-                        - Use Larger database to 
+                        - Use Larger database to explained.
 
          
 
