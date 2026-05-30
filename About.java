@@ -5,7 +5,10 @@ import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.layout.VBox;
 
-
+/**
+*@author - Motsoetsoana M, Chichongue S, Mathonsi M, Madisa P.
+*
+/
 public class About extends VBox {
 
     Label about = new Label("South Africa is the biggest coal producer in the world, with over 100 coal \r\n"
