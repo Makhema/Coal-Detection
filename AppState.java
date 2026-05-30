@@ -7,6 +7,7 @@ import coal.detection.classifier.AnalysisResult;
 import coal.detection.service.CoalAnalysisService;
 
 /**
+ *@author - Motsoetsoana M, Mathonsi M, Madisa P, Chichongue S.
  * This class is responsible for shared application state.
  * The upload, graph and results panes all use this one state object so that the selected image and latest analysis result stay in sync.
  */
