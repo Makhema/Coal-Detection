@@ -5,6 +5,7 @@ import coal.detection.modelgraph.GraphStructure;
 import java.awt.image.BufferedImage;
 
 /**
+ *@author - Motsoetsoana Makhema, Pedume Madisa, Mayibongwe Mathonsi, Samuel Chichongue.
  * This class represents one labelled image used during training
  */
 public class TrainingSample {
