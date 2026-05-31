@@ -1,5 +1,8 @@
 package coal.detection.datastructures;
 
+/**
+ *@author - Motsoetsoana Makhema, Pedume Madisa, Mayibongwe Mathonsi, Samuel Chichongue.
+ */
 // This classs is a single node used in the linked list
 public class Node<T> {
     private T element;
