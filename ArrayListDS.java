@@ -1,5 +1,8 @@
 package coal.detection.datastructures;
 
+/**
+ *@author - Motsoetsoana Makhema, Pedume Madisa, Mayibongwe Mathonsi, Samuel Chichongue.
+ */
 // This class is an array list
 public class ArrayListDS<T> {
     private Object[] elements;
