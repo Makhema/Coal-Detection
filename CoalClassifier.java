@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ *@author - Motsoetsoana Makhema, Pedume Madisa, Mayibongwe Mathonsi, Samuel Chichongue.
  * This class analyses an image, rejects images that are not coal,
  * rejects blurry images and then predicts the coal type.
  */
