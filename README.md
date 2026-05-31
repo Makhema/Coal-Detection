@@ -1,11 +1,65 @@
-# Coal-Detection
+Coal Detection System
+Overview
 
-* Objective 🧠
-* Tools used 🧰
-* Future Improvement 💡 - GUI Performance to be explained.
-                        - Use Larger database to explained.
+The Coal Detection System is a Java-based application that classifies different types of coal using image analysis and graph-based machine learning concepts. The system analyzes uploaded coal images, extracts visual features, and compares them against a trained dataset to identify the most likely coal category.
 
-         
+The project was developed to explore the application of computer vision, graph structures, and machine learning techniques in solving real-world problems within the mining and energy industries.
+
+Objectives
+Classify coal samples from images.
+Apply image processing techniques to extract meaningful features.
+Represent image features using graph-based structures.
+Explore Graph Neural Network (GNN) concepts for classification.
+Provide an easy-to-use graphical interface for users.
+
+Technologies Used
+Java
+JavaFX
+Object-Oriented Programming (OOP)
+Graph Data Structures
+Image Processing
+Machine Learning Concepts
+Git & GitHub
+
+How It Works
+The user uploads a coal image.
+The image is processed and relevant visual features are extracted.
+Features are converted into graph-based representations.
+The classifier compares extracted features against the training dataset.
+The system predicts the coal type and displays the result.
+
+Future Improvements
+GUI Optimization
+
+Improve application responsiveness and user experience by optimizing image rendering, loading times, and interface performance.
+
+Expanded Dataset
+
+Increase the number and diversity of training images to improve classification accuracy and model robustness.
+
+Advanced Machine Learning
+
+Implement a fully trained Graph Neural Network model and evaluate its performance against traditional classification approaches.
+
+Real-Time Classification
+
+Enable direct image capture and real-time coal analysis using cameras or mobile devices.
+
+Learning Outcomes
+
+Through this project, we gained practical experience in:
+
+Software Engineering
+Java Development
+Data Structures and Algorithms
+Image Processing
+Machine Learning Concepts
+Collaborative Development using Git and GitHub
+
+Mayibongwe Mathonsi
+Madisa Pedume
+Motsoetsoana Makhema
+Chichongue Samuel
 
 📁The folder structure
 
