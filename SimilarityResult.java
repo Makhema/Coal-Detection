@@ -1,6 +1,7 @@
 package coal.detection.classifier;
 
 /**
+ *@author - Motsoetsoana Makhema, Pedume Madisa, Mayibongwe Mathonsi, Samuel Chichongue.
  * This class holds one similarity match and its score
  */
 public class SimilarityResult {
