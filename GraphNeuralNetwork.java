@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ *@author - Motsoetsoana Makhema, Pedume Madisa, Mayibongwe Mathonsi, Samuel Chichongue.
  * This class is a graph neural network which works as follows:
  * Each node reads its neighbours through the graph edges.
  * The updated node values are combined into one graph representation.
