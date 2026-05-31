@@ -56,10 +56,6 @@ Image Processing
 Machine Learning Concepts
 Collaborative Development using Git and GitHub
 
-Mayibongwe Mathonsi
-Madisa Pedume
-Motsoetsoana Makhema
-Chichongue Samuel
 
 📁The folder structure
 
@@ -90,4 +86,7 @@ Coal_Detecter -
                                                   * service📁 - CoalAnalysisService.java, DataSetLoader.java
                                                   * upload📁 - Upload.java
 
-Contributors/Problem Solvers: 
+Contributors/Problem Solvers: Mayibongwe Mathonsi
+Madisa Pedume
+Motsoetsoana Makhema
+Chichongue Samuel
