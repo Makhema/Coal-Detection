@@ -1,5 +1,10 @@
 package coal.detection.datastructures;
 
+
+/**
+ *@author - Motsoetsoana Makhema, Pedume Madisa, Mayibongwe Mathonsi, Samuel Chichongue.
+ *
+ */
 // This class is a linked list used by the queue
 public class LinkedListDS<T> {
     private Node<T> head;
