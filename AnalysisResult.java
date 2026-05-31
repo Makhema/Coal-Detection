@@ -7,6 +7,7 @@ import java.awt.image.BufferedImage;
 import java.util.Map;
 
 /**
+ *@author - Motsoetsoana Makhema, Pedume Madisa, Mayibongwe Mathonsi, Samuel Chichongue.
  * This class is responsible for the final results returned after an image is analysed.
  */
 public class AnalysisResult {
