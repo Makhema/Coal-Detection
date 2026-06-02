@@ -1,6 +1,7 @@
 package coal.detection.modelgraph;
 
 /**
+ *@author - Mathonsi B, Motsoetsoana M, Madisa P, Chichongue S.
  * One weighted graph edge between neighbouring image regions.
  */
 public class GraphEdge {
