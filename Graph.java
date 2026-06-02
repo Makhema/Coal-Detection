@@ -15,6 +15,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 
 /**
+ *@author - Mathonsi B, Madisa P, Motsoetsoana M, Chichongue S.
  * This class is responsible for the Graph pane.
  * The graph is built from a 5 x 5 image grid with 25 nodes and 40 edges
  */
