@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ *@author - Mathonsi B, Motsoetsoana M, Madisa P, Chichongue S.
  * This class represents one node on the graph.
  * All vertex correspond to one region of the image.
  */
