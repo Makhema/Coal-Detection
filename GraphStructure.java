@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ *@author - Mathonsi B, Motsoetsoana M, Madisa P, Chichongue S.
  * This class represents the whole graph.
  * It stores all vertices and edges.
  */
