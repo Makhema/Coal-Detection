@@ -8,6 +8,7 @@ import java.awt.RenderingHints;
 import java.awt.image.BufferedImage;
 
 /**
+ *@author - Mathonsi B, Motsoetsoana M, Madisa P, Chichongue S.
  * This class converts an image into a graph of patches.
  * Each patch becomes one vertex and edges connect neighbouring patches.
  * It also smooths the image with a Gaussian kernel before extracting features so that blurry image does not affect the result too much
