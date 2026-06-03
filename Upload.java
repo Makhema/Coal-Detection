@@ -14,6 +14,10 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.FileChooser;
 
+/**
+ *@author - Motsoetsoana M, Chichongue S, Madisa P, Mathonsi B.
+ *
+ */
 public class Upload extends VBox {
     private final Button uploadButton = new Button("Upload Image");
     private final Button analyseButton = new Button("Analyse Image");
