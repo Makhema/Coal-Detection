@@ -8,6 +8,10 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 
+/**
+ *@author - Mathonsi M, Madisa P, Chichingue S, Motsoetsoana M. 
+ *
+ */
 // This class shows the prediction, confidence and graph details
 public class Results extends VBox {
 
