@@ -11,6 +11,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
+ *@author - Motsoetsoana M, Chichongue S, Madisa P, Mathonsi B.
  * This class loads training images directly from folders in the data directory.
  */
 public class DataSetLoader {

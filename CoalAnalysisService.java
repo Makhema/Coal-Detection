@@ -11,6 +11,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
+ *@author - Motsoetsoana M, Chichongue S, Madisa P, Mathonsi B.
  * This class loads the training dataset, trains the classifier and analyses images uploaded by the user.
  */
 public class CoalAnalysisService {
