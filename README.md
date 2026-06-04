@@ -5,7 +5,7 @@ The Coal Detection System is a Java-based application that classifies different 
 
 The project was developed to explore the application of computer vision, graph structures, and machine learning techniques in solving real-world problems within the mining and energy industries.
 
-Objectives
+Objectives 🧠
 Classify coal samples from images.
 Apply image processing techniques to extract meaningful features.
 Represent image features using graph-based structures.
